@@ -1,4 +1,5 @@
 {
   "raw": "{{Infobox location poe2\n| game          = poe2\n| map           = PE2 Belranga.png\n| caption_map   = \n| name          = The Crystal Desert\n| type          = Encounter\n| description   = \n| exits         = \n| sub_locations =\n| main_location = Razai Passage\n| merchant      = \n| innkeeper     = \n| inhabitants   = \n| monsters      = Belranga\n| plants        = \n| expected_level= 20\n| grants_xp     = no\n| override_xp   = \n| is_crit_path  = no\n| can_camp      = yes\n| zone_id       = WorldMapEncounters\n| internalname  = RE_Crystal_Spider_Queen\n| guid          = 62153195-0037-4c98-b6e9-a68fcbba6c87\n| lsc           = \n| icon          = Icon The Crystal Desert.png\n}}\n'''{{PAGENAME}}''' is a [[Pillars of Eternity II: Deadfire world map|location]] in {{poe2}}. It is located north of [[Razai Passage]], at the coordinates 8° 53' N 45° 25' E.\n\n==Background==\nDesert and \"home\" of [[Belranga]], the Crystal Empress. She is one of the four [[Mega Boss Battles|mega bosses]].",
+  "slug": "theCrystalDesert",
   "title": "The Crystal Desert"
 }

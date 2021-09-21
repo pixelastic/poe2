@@ -1,4 +1,5 @@
 {
   "raw": "{{Infobox location poe2\n| game          = poe2\n| map           = PE2 City Streets.png\n| caption_map   = \n| name          = City Streets\n| type          = \n| description   = \n| exits         = \n| sub_locations =\n| merchant      = \n| innkeeper     = \n| inhabitants   = \n| main_location =\n| plants        = \n| expected_level= -1\n| grants_xp     = yes\n| override_xp   = \n| is_crit_path  = no\n| can_camp      = no\n| zone_id       = zn_08_rauatai_district\n| internalname  = AR_0811_Streets_Near_Brass_Citadel\n| guid          = ef57ea06-172b-4aef-8526-39171ee7e90a\n| lsc           = \n| icon          = \n}}\n'''{{PAGENAME}}''' is a [[Pillars of Eternity II: Deadfire world map|location]] in {{poe2}}. It is a random map representing city encounters.\n\n==Usage==\n* After escaping the powderhouse during [[Sabotage at the Brass Citadel]], you'll be placed on this map in [[Scouting Mode|stealth]].",
+  "slug": "cityStreets",
   "title": "City Streets"
 }

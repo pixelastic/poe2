@@ -1,4 +1,5 @@
 {
   "raw": "{{Infobox location poe2\n| game          = poe2\n| map           = PE2 Hasongo FMO.png\n| caption_map   = \n| name          = Fleet Master's Office\n| type          = Building\n| description   = \n| exits         = \n| sub_locations =\n| merchant      = \n| innkeeper     = \n| inhabitants   = \n| main_location = Hasongo\n| plants        = \n| expected_level= 8\n| grants_xp     = yes\n| override_xp   = \n| is_crit_path  = yes\n| can_camp      = yes\n| zone_id       = zn_11_hasongo\n| internalname  = AR_1107_Hasongo_Int_06\n| guid          = e870a95e-97a2-4eca-af34-4bbd75450af9\n| lsc           = \n| icon          = \n}}\n'''{{Pagename nd}}''' is a [[Pillars of Eternity II: Deadfire world map|location]] in {{poe2}}.\n\n==Points of interest==\n* The ruined office of Fleet Master Ko, now dead. You can find the [[Letter from Laethärn]] in the desk and a plan for Fort Hasongo on the wall. [[Kaz]] sits on the floor.",
+  "slug": "fleetMastersOfficeHasongo",
   "title": "Fleet Master's Office (Hasongo)"
 }

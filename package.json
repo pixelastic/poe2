@@ -16,6 +16,7 @@
   "main": "lib/main.js",
   "name": "poe2",
   "scripts": {
+    "data:initial": "node ./scripts/data-initial.js",
     "build": "./scripts/build",
     "build:prod": "./scripts/build-prod",
     "ci": "./scripts/ci",

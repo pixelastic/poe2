@@ -1,4 +1,5 @@
 {
   "raw": "{{Infobox location poe2\n| game          = lax3\n| map           = LAX3 The In-Between Map.png\n| caption_map   = \n| name          = The In-Between\n| type          = \n| description   = \n| exits         = \n| sub_locations =\n| merchant      = \n| innkeeper     = \n| inhabitants   = Oracle of Wael\n| main_location =\n| plants        = \n| expected_level= 18\n| grants_xp     = no\n| override_xp   = \n| is_crit_path  = no\n| can_camp      = no\n| zone_id       = zn_lax03_01_temple\n| internalname  = AR_LAX03_0103_Temple_Beyond\n| guid          = 8982a85f-5859-4c41-9c2c-56419ad9336b\n| lsc           = \n| icon          = \n}}\n'''{{Pagename nd}}''' is a [[Pillars of Eternity II: Deadfire world map|location]] in {{lax3}}.\n\n==Background==\n==Points of interest==\n==Characters==\n* [[Oracle of Wael]]\n==Gallery==\n<gallery mode=nolines widths=200px>\n LAX3 The In-Between.png | Full-res map\n</gallery>",
+  "slug": "theInBetweenTheForgottenSanctum",
   "title": "The In-Between (The Forgotten Sanctum)"
 }

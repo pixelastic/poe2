@@ -1,4 +1,5 @@
 {
   "raw": "{{Infobox location poe2\n| game          = poe2\n| map           = PE2 Thelys Home.png\n| caption_map   = \n| name          = Thelys' Home\n| type          = Building\n| description   = \n| exits         = \n| sub_locations =\n| merchant      = \n| innkeeper     = \n| inhabitants   = \n| main_location = The Gullet\n| plants        = \n| expected_level= 6\n| grants_xp     = yes\n| override_xp   = \n| is_crit_path  = no\n| can_camp      = no\n| zone_id       = zn_06_slums_district\n| internalname  = AR_0606_Slums_Home_01\n| guid          = 0aab3efd-6972-4682-8dc4-91378e91c669\n| lsc           = \n| icon          = \n}}\n'''{{PAGENAME}}''' is a [[Pillars of Eternity II: Deadfire world map|location]] in {{poe2}}.\n\n==Background==\nThe quaint home of one \"Thelys\", who is otherwise nowhere to be found.\n\n==Points of interest==\n* Not much to see here besides a couple of loot containers.\n\n==Gallery==\n<gallery mode=nolines widths=200px>\nPE2_Enoi's_Home_Exterior.png | Building exterior (bottom)\n</gallery>",
+  "slug": "thelysHome",
   "title": "Thelys' home"
 }

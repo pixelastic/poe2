@@ -7,3 +7,7 @@ node_modules/
 
 # .yarn contains the yarn source code, we don't need to lint it
 .yarn/
+
+# We don't lint the JSON we automatically generate
+data/
+

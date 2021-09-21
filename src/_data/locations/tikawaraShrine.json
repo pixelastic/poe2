@@ -1,4 +1,5 @@
 {
   "raw": "{{Infobox location poe2\n| game          = poe2\n| map           = PE2 Tikawara Shrine.png\n| caption_map   = \n| name          = Shrine\n| type          = Building\n| description   = \n| exits         = Tikawara\n| sub_locations = \n| merchant      = \n| innkeeper     = \n| inhabitants   = Nairi\n| plants        = \n| expected_level= 6\n| grants_xp     = yes\n| override_xp   = \n| is_crit_path  = yes\n| can_camp      = no\n| zone_id       = zn_01_tikawara\n| internalname  = AR_0103_Village_Shrine_Int\n| guid          = 54b32ea0-4304-45b9-9a48-841f3ca8fbdf\n| lsc           = \n| icon          = \n}}\n'''{{PAGENAME}}''' is a building in [[Tikawara]] and the center of its religious life.\n\n==Background==\nA shrine dedicated to [[Ngati]], the [[Huana]] representation of [[Ondra]].\n\n==Characters==\n* [[Nairi]], priestess of Tikawara.\n\n==Gallery==\n<gallery mode=nolines widths=200px>\nPE2 Tikawara Shrine Exterior.png | Building exterior\n</gallery>",
+  "slug": "tikawaraShrine",
   "title": "Tikawara Shrine"
 }

@@ -1,4 +1,5 @@
 {
   "raw": "{{Infobox location poe2\n| game          = bow\n| map           = BOW Harbingers Dwelling.png\n| caption_map   = \n| name          = Harbingers' Dwelling\n| type          = Building\n| description   = \n| exits         = \n| main_location = Harbingers' Watch\n| sub_locations = \n| merchant      = \n| expected_level= 14\n| grants_xp     = yes\n| override_xp   = \n| is_crit_path  = no\n| can_camp      = no\n| zone_id       = ZN_LAX02_01_Iceberg_Dungeon\n| internalname  = AR_LAX02_0109_Iceberg_Interior_02\n| guid          = 6d958462-b1f4-43a8-aeac-96b4be28aed7\n| lsc           = \n| icon          = \n}}\n'''{{PAGENAME}}''' is a [[Pillars of Eternity II: Deadfire world map|location]] in {{bow}}.\n\n==Points of interest==\nThis is an underground dwelling carved out from the glacier, providing shelter from the icy winds that haunt the Dead Floe.\n\n==Characters==\n* [[Harbinger Brythe]]",
+  "slug": "harbingersDwelling",
   "title": "Harbingers' dwelling"
 }
