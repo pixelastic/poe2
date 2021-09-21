@@ -1,28 +1,27 @@
-// const { pMap, _ } = require('golgoth');
-// const isProduction = process.env.NODE_ENV === 'production';
+const { pMap, _ } = require('golgoth');
+const isProduction = process.env.NODE_ENV === 'production';
 
 module.exports = {
   hooks: {
-    // async afterHtml({ createPage }) {
-    //   // Get all locations names
-    //   const template = '_includes/hooks/item.pug';
-    //   let items = [...data];
-    //   // Include fewer items in dev, to make reloading faster
-    //   if (!isProduction) {
-    //     items = _.filter(items, { title: 'Ring of the Ram' });
-    //   }
-    //   await pMap(items, async (item) => {
-    //     const { gameSlug, slug } = item;
-    //     const destination = `${gameSlug}/${slug}/index.html`;
-    //     const pageData = {
-    //       item,
-    //       meta: {
-    //         title: item.title,
-    //         description: item.description,
-    //       },
-    //     };
-    //     await createPage(template, destination, pageData);
-    //   });
-    // },
+    // TODO: Document and test norska with data passed to afterHtml
+    async afterHtml({ createPage, data }) {
+      const locationTemplate = '_includes/hooks/location.pug';
+      let locationPages = data.locations;
+      if (!isProduction) {
+        locationPages = _.filter(locationPages, { slug: 'arkemyrsManor' });
+      }
+
+      await pMap(locationPages, async (page) => {
+        const { slug } = page;
+        const destination = `locations/${slug}/index.html`;
+        const pageData = {
+          page,
+          meta: {
+            title: page.title,
+          },
+        };
+        await createPage(locationTemplate, destination, pageData);
+      });
+    },
   },
 };
