@@ -8147,7 +8147,7 @@ jest-environment-node@27.0.6:
     jest-mock "^27.0.6"
     jest-util "^27.0.6"
 
-jest-environment-node@^27.2.0:
+jest-environment-node@27.2.0, jest-environment-node@^27.2.0:
   version "27.2.0"
   resolved "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-27.2.0.tgz#73ef2151cb62206669becb94cd84f33276252de5"
   integrity sha512-WbW+vdM4u88iy6Q3ftUEQOSgMPtSgjm3qixYYK2AKEuqmFO2zmACTw1vFUB0qI/QN88X6hA6ZkVKIdIWWzz+yg==

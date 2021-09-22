@@ -6,5 +6,5 @@ const wikinx = require('../lib/wikinx/');
     categories: ['Pillars_of_Eternity_II:_Deadfire_locations'],
   };
 
-  await wikinx.initial(config);
+  await wikinx.run(config);
 })();
