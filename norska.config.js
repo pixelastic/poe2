@@ -5,22 +5,22 @@ module.exports = {
   hooks: {
     // TODO: Document and test norska with data passed to afterHtml
     async afterHtml({ createPage, data }) {
-      const locationTemplate = '_includes/hooks/location.pug';
-      let locationPages = data.locations;
+      const template = '_includes/hooks/location.pug';
+      let pages = data.pages;
       if (!isProduction) {
-        locationPages = _.filter(locationPages, { slug: 'arkemyrsManor' });
+        pages = _.filter(pages, { slug: 'arkemyrsManor' });
       }
 
-      await pMap(locationPages, async (page) => {
+      await pMap(pages, async (page) => {
         const { slug } = page;
-        const destination = `locations/${slug}/index.html`;
+        const destination = `${slug}/index.html`;
         const pageData = {
           page,
           meta: {
             title: page.title,
           },
         };
-        await createPage(locationTemplate, destination, pageData);
+        await createPage(template, destination, pageData);
       });
     },
   },
