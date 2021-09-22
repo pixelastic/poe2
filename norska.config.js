@@ -6,10 +6,10 @@ module.exports = {
     // TODO: Document and test norska with data passed to afterHtml
     async afterHtml({ createPage, data }) {
       const template = '_includes/hooks/location.pug';
-      let pages = data.pages;
-      if (!isProduction) {
-        pages = _.filter(pages, { slug: 'arkemyrsManor' });
-      }
+      let pages = _.values(data.pages);
+      // if (!isProduction) {
+      //   pages = _.filter(pages, { slug: 'arkemyrsManor' });
+      // }
 
       await pMap(pages, async (page) => {
         const { slug } = page;
