@@ -1,0 +1,6 @@
+{
+  "markdown": "{{NPC infobox \n|game    =poe2\n|name    = Munric\n|image2   =PE2 Munric.png\n|caption =\n|race    = Dwarf\n|subrace = Mountain\n|gender  = Male\n|class   = \n|faction = \n|location= [Collapsed Coal Mine](/collapsedCoalMine/)\n|culture= \n|attributes = \n|quests=\n|sells=\n|resting=\n|companion=\n|loot= \n|guid=\n|internalname=\n}}\n'''Munric''' is a character in {{poe2}}.\n\n## Background\n\nA member of [Eccea](/eccea/)'s team at the coal mine.\n\n## Interactions\n\n{{Interactions\n|companion       =\n|wares           =\n|stronghold      =\n|rest            =\n|quests_started  =\n|quests_involved =\n|none            = x\n|other           =\n}}",
+  "raw": "{{NPC infobox \n|game    =poe2\n|name    = Munric\n|image2   =PE2 Munric.png\n|caption =\n|race    = Dwarf\n|subrace = Mountain\n|gender  = Male\n|class   = \n|faction = \n|location= [[Collapsed Coal Mine]]\n|culture= \n|attributes = \n|quests=\n|sells=\n|resting=\n|companion=\n|loot= \n|guid=\n|internalname=\n}}\n'''Munric''' is a character in {{poe2}}.\n\n==Background==\nA member of [[Eccea]]'s team at the coal mine.\n==Interactions==\n{{Interactions\n|companion       =\n|wares           =\n|stronghold      =\n|rest            =\n|quests_started  =\n|quests_involved =\n|none            = x\n|other           =\n}}",
+  "slug": "munric",
+  "title": "Munric"
+}
