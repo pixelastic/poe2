@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "firost": "2.17.0",
+    "firost": "4.1.0",
     "golgoth": "2.1.0",
     "norska": "2.9.0",
     "wikijs": "6.3.2"
   },
   "devDependencies": {
-    "aberlaas": "1.25.0",
+    "aberlaas": "2.9.0",
     "jest-environment-node": "27.2.0"
   },
   "engines": {
