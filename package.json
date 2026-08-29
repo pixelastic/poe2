@@ -2,7 +2,7 @@
   "dependencies": {
     "firost": "2.17.0",
     "golgoth": "2.1.0",
-    "norska": "2.9.0",
+    "norska": "3.0.0",
     "wikijs": "6.3.2"
   },
   "devDependencies": {
